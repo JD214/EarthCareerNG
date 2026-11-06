@@ -11,6 +11,8 @@ Everything runs in **Freeroam**. There's no vanilla career mode involved: the wh
 
 **Current version:** v1.1.5 · tested on BeamNG.drive 0.40
 
+Come Join Our discord Server!
+https://discord.gg/eM6skM2uMt
 ---
 
 ## Requirements
