@@ -1,5 +1,5 @@
 <!-- Logo: export the "Primary logo (dark)" artboard as a PNG, add it to the repo as logo.png, and keep this line -->
-<p align="center"><img src="logo.png" alt="EarthCareerNG logo" width="720"></p>
+<p align="center"><img src="EarthCareerNGLogo.png" alt="EarthCareerNG logo" width="720"></p>
 
 # EarthCareerNG
 
