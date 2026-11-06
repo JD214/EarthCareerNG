@@ -1,2 +1,2 @@
-# project
-Project repository created from conversation
+Beam NG; EARTHCAREER NG
+Welcome to Earth Career NG; 
