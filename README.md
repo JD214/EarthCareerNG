@@ -5,7 +5,7 @@
 
 **Drive the real world, in career mode.**
 
-EarthCareerNG is a career mod for BeamNG.drive built on [BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth), the mod that streams the real world into the game at 1:1 scale. You pick a real US town as your home base, start with $500 and a beat-up car, and work your way up: hauling freight, moving cars between dealers, running bus routes and taking HotShot loads between real towns, hundreds of miles apart on real roads.
+EarthCareerNG is a career mod for BeamNG.drive built on [BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth), the mod that streams the real world into the game at 1:1 scale. You pick a real US town as your home base, start with $500 and a beat-up car, and work your way up: hauling freight, moving cars between dealers, running bus routes and taking HotShot trucking  loads between real towns, hundreds of miles apart on real roads.
 
 Everything runs in **Freeroam**. There's no vanilla career mode involved: the whole career is a HUD app plus a few Lua extensions, so it works anywhere BeamNG.Earth does.
 
